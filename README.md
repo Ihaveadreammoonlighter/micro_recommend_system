@@ -12,3 +12,8 @@ pandas : 0.24.2
 sklearn : 0.0
 matplotlib : 3.1.0
 ```
+#### 2.项目数据集
+```
+UserBehavior是阿里巴巴提供的一个淘宝用户行为数据集，用于隐式反馈推荐问题的研究。
+https://tianchi.aliyun.com/dataset/dataDetail?dataId=649&userId=1
+```
